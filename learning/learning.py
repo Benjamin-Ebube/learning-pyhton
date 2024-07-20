@@ -117,7 +117,31 @@
 
 
 
+# learning about functions still...
+# You use "def" meaning  to define functions.
+#def greet_user():
+#    print('hi')
+#    print('welcome to my channel.')
 
 
+#print('start')
+#greet_user()
+#print('it is done.')
+# so basically the greet user just turns whatever has been written there into a function re-usable anytime.
+# you can also define your functions using parameters. they are defined inside the closed brackets
+#def biscuit(name):
+#    print(f'Yo, I love {name}')
+#    print('do you have some?')
 
 
+#now you define the parameters you have given
+#print("hows'it going broskis")
+#biscuit('munch it')
+#print('please!!!!!!')
+# you can also define more than one parameter in it, just add a comma after the first parameter.
+
+# learning about return statements...they are used mostly in calculations.
+#def square(number):
+#    return number * number
+#print(square(6))
+# By default all functions will 'return' "none", but you can change that by using the return statement.
