@@ -145,3 +145,24 @@
 #    return number * number
 #print(square(6))
 # By default all functions will 'return' "none", but you can change that by using the return statement.
+
+
+
+# learning about 'try' and 'except' values.
+# try and except blocks are used to handle exceptions raised in our programs.
+
+#try:
+#    age = int(input('age: '))
+#    print(age)
+#except ValueError:           #this is an exception for is the person inputs the wrong value.
+#    print("Invalid value.")
+
+#print('pick a number to divide my hidden number;')
+#try:
+#    key_value = int(input())
+#    example = 108/key_value
+#    print(example)
+#except ZeroDivisionError:
+#    print('you cant divide a number with zero!')
+
+
