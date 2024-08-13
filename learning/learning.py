@@ -154,7 +154,7 @@
 #try:
 #    age = int(input('age: '))
 #    print(age)
-#except ValueError:           #this is an exception for is the person inputs the wrong value.
+#except ValueError:           #this is an exception for if the person inputs the wrong value.
 #    print("Invalid value.")
 
 #print('pick a number to divide my hidden number;')
